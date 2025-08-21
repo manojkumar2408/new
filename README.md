@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/badges/shields/master/.github/dependabot.yml
+![My Badge](https://img.shields.io/badge/Hello-World-blue)
