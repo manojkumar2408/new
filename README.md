@@ -45,7 +45,7 @@ I'm always open to connecting with fellow developers and DevOps enthusiasts. Fee
 <a href="https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
 </a>
-<a href="mailto:youremail@example.com" target="_blank">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
 </a>
 </p>
