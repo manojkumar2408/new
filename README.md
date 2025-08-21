@@ -1,8 +1,7 @@
 Hi there, I'm Manoj! 👋
 
 
-🚀 DevOps Engineer | Automating, Building, and Scaling Infrastructure
-I am a passionate DevOps engineer dedicated to bridging the gap between development and operations. My goal is to build resilient, scalable, and highly available systems through automation, robust CI/CD pipelines, and infrastructure as code.
+🚀 DevOps Engineer |
 
 🛠️ My Tech Stack & Skills
 Here are some of the key technologies and tools I work with:
