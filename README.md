@@ -1,1 +1,1 @@
-https://img.shields.io/badge/dynamic/json
+https://raw.githubusercontent.com/badges/shields/master/.github/dependabot.yml
