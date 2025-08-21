@@ -1,1 +1,1 @@
-https://github.com/badges/shields/raw/master/package.json
+https://img.shields.io/badge/dynamic/json
