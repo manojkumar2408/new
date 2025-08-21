@@ -1,1 +1,1 @@
-{ "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "orange" }
+https://raw.githubusercontent.com/squirrelchat/smol-toml/mistress/bench/testfiles/toml-spec-example.toml
